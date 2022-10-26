@@ -37,7 +37,7 @@ const Home: NextPage = () => {
             className="absolute flex inset-0 justify-center items-center text-6xl font-black hover:drop-shadow-md hover:scale-[1.02] transition-all"
             onClick={onClick}
           >
-            LA ANGOSTA
+            LA LANGOSTA
           </button>
         </div>
       )}
