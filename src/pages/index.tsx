@@ -18,8 +18,8 @@ const Home: NextPage = () => {
   return (
     <div className="relative w-screen h-screen">
       <NextSeo
-        title="La Angosta Azul"
-        description="La angosta... la angosta es azul..."
+        title="La Langosta Azul"
+        description="La langosta... la langosta es azul..."
       />
       <Head>
         <link
